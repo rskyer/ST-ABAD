@@ -27,8 +27,6 @@ body {
     margin: 0 auto;
     padding: 0 20px;
 }
-
-/* Header Styles */
 header {
     background-color: #1e293b;
     padding: 15px 0;
@@ -52,7 +50,7 @@ header {
     cursor: pointer;
     font-size: 0.9rem;
     text-decoration: none;
-    font-family: 'Mikhak', sans-serif;
+    font-family: 'pelak', sans-serif;
 }
 
 nav ul {
@@ -68,7 +66,7 @@ nav ul li a {
     color: #cbd5e1;
     text-decoration: none;
     transition: color 0.3s;
-    font-family: 'Mikhak', sans-serif;
+    font-family: 'pelak', sans-serif;
 }
 
 nav ul li a:hover {
@@ -86,7 +84,7 @@ nav ul li a:hover {
     font-size: 2.5rem;
     margin-bottom: 20px;
     color: #60a5fa;
-    font-family: 'Mikhak', sans-serif;
+    font-family: 'pelak', sans-serif;
 }
 
 .hero p {
@@ -94,7 +92,7 @@ nav ul li a:hover {
     max-width: 700px;
     margin: 0 auto 30px;
     color: #cbd5e1;
-    font-family: 'Mikhak', sans-serif;
+    font-family: 'pelak', sans-serif;
 }
 
 .hero-buttons {
@@ -109,7 +107,7 @@ nav ul li a:hover {
     text-decoration: none;
     font-weight: bold;
     transition: all 0.3s;
-    font-family: 'Mikhak', sans-serif;
+    font-family: 'pelak', sans-serif;
     display: inline-block;
 }
 
@@ -139,7 +137,7 @@ nav ul li a:hover {
     font-size: 1.8rem;
     margin-bottom: 40px;
     color: #60a5fa;
-    font-family: 'Mikhak', sans-serif;
+    font-family: 'pelak', sans-serif;
 }
 
 .youtubers-slider {
@@ -179,10 +177,10 @@ nav ul li a:hover {
 .youtuber span {
     font-size: 1.2rem;
     font-weight: bold;
-    font-family: 'Mikhak', sans-serif;
+    font-family: 'pelak', sans-serif;
 }
 
-/* Features Section */
+
 .features {
     padding: 60px 0;
     background-color: #1e293b;
@@ -192,7 +190,7 @@ nav ul li a:hover {
     color: #60a5fa;
     margin-bottom: 30px;
     font-size: 1.8rem;
-    font-family: 'Mikhak', sans-serif;
+    font-family: 'pelak', sans-serif;
     text-align: center;
 }
 
@@ -219,14 +217,12 @@ nav ul li a:hover {
     color: #60a5fa;
     margin-bottom: 15px;
     font-size: 1.3rem;
-    font-family: 'Mikhak', sans-serif;
+    font-family: 'pelak', sans-serif;
 }
 
 .feature-card p {
-    font-family: 'Mikhak', sans-serif;
+    font-family: 'pelak', sans-serif;
 }
-
-/* Pricing Section */
 .pricing {
     padding: 80px 0;
     text-align: center;
@@ -236,7 +232,7 @@ nav ul li a:hover {
     font-size: 2rem;
     margin-bottom: 50px;
     color: #60a5fa;
-    font-family: 'Mikhak', sans-serif;
+    font-family: 'pelak', sans-serif;
 }
 
 .pricing-grid {
@@ -262,7 +258,7 @@ nav ul li a:hover {
     color: #60a5fa;
     margin-bottom: 20px;
     font-size: 1.5rem;
-    font-family: 'Mikhak', sans-serif;
+    font-family: 'pelak', sans-serif;
 }
 
 .price {
@@ -270,7 +266,7 @@ nav ul li a:hover {
     font-weight: bold;
     margin: 20px 0;
     color: #e2e8f0;
-    font-family: 'Mikhak', sans-serif;
+    font-family: sans-serif;
 }
 
 .pricing-features {
@@ -282,7 +278,7 @@ nav ul li a:hover {
     margin-bottom: 10px;
     padding-right: 20px;
     position: relative;
-    font-family: 'Mikhak', sans-serif;
+    font-family: 'pelak', sans-serif;
 }
 
 .pricing-features li:before {
@@ -292,7 +288,7 @@ nav ul li a:hover {
     color: #10b981;
 }
 
-/* FAQ Section */
+
 .faq {
     padding: 80px 0;
     background-color: #1e293b;
@@ -303,7 +299,7 @@ nav ul li a:hover {
     font-size: 2rem;
     margin-bottom: 50px;
     color: #60a5fa;
-    font-family: 'Mikhak', sans-serif;
+    font-family: 'pelak', sans-serif;
 }
 
 .faq-grid {
@@ -323,12 +319,12 @@ nav ul li a:hover {
     color: #e2e8f0;
     margin-bottom: 10px;
     font-size: 1.1rem;
-    font-family: 'Mikhak', sans-serif;
+    font-family: 'pelak', sans-serif;
 }
 
 .faq-item p {
     color: #94a3b8;
-    font-family: 'Mikhak', sans-serif;
+    font-family: 'pelak', sans-serif;
 }
 
 /* Footer */
@@ -350,7 +346,7 @@ footer {
     color: #cbd5e1;
     text-decoration: none;
     transition: color 0.3s;
-    font-family: 'Mikhak', sans-serif;
+    font-family: 'pelak', sans-serif;
 }
 
 .footer-links a:hover {
@@ -360,7 +356,7 @@ footer {
 .copyright {
     color: #94a3b8;
     font-size: 0.9rem;
-    font-family: 'Mikhak', sans-serif;
+    font-family: 'pelak', sans-serif;
 }
 
 /* Responsive Styles */
