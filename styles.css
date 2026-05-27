@@ -1,17 +1,17 @@
-/* فونت Mikhak */
+
 @font-face {
-    font-family: 'Mikhak';
-    src: url('https://s786mc.github.io/PvPPacks/fonts/Mikhak.ttf') format('truetype');
+    font-family: 'pelak';
+    src: url('https://rskyer.github.io/AI_everywhere/fonts/pelak.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
-/* Reset and Base Styles */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-font-family: 'Mikhak';
+font-family: 'pelak';
 }
 
 
